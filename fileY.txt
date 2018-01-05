@@ -18,12 +18,15 @@
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
+const "smierdza",
+ "mi", "stopy"
+const "smierdza", 
+"mi", "stopy"
 const "smierdza", "mi", "stopy"
 const "smierdza", "mi", "stopy"
 const "smierdza", "mi", "stopy"
-const "smierdza", "mi", "stopy"
-const "smierdza", "mi", "stopy"
-const "smierdza", "mi", "stopy"
+const "smierdza", "mi", 
+"stopy"
 const "smierdza", "mi", "stopy"
 const "smierdza", "mi", "stopy"
 const "smierdza", "mi", "stopy"
