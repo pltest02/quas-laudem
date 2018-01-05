@@ -2,17 +2,20 @@
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
+"qwertyud
+fghj 587" 
+"qwertyudfghj 587" 
+"qwertyudfghj 587" 
+"qwertyu
+dfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
-"qwertyudfghj 587" 
-"qwertyudfghj 587" 
-"qwertyudfghj 587" 
-"qwertyudfghj 587" 
-"qwertyudfghj 587" 
+"qwertyudf
+ghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
 "qwertyudfghj 587" 
@@ -21,11 +24,14 @@
 const "smierdza",
  "mi", "stopy"
 const "smierdza", 
-"mi", "stopy"
+"mi", "stop
+y"
 const "smierdza", "mi", "stopy"
+const "smierdza",
+ "mi", "stopy"
 const "smierdza", "mi", "stopy"
-const "smierdza", "mi", "stopy"
-const "smierdza", "mi", 
+const "smierdza
+", "mi", 
 "stopy"
 const "smierdza", "mi", "stopy"
 const "smierdza", "mi", "stopy"
